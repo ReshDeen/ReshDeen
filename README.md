@@ -25,8 +25,8 @@ I enjoy working at the intersection of **design and development** — from creat
 
 ### 🌱 Currently Learning
 
-**DSA • UI/UX • Full-Stack Development • AI/ML**
+**DSA • UI/UX • Full-Stack Development**
 
 > **Design it. Build it. Make it useful. ✨**
 
-📫 **[deenres@gmail.com](mailto:deenres@gmail.com)**
+📫 **[deenres@gmail.com](mailto:deenresh@gmail.com)**
